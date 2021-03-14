@@ -5,7 +5,6 @@
 	<export function="getElementsByKey" type="shared"/>
 	<export function="setCustomData" type="shared"/>
 	<export function="forceBatchDataSync" type="server"/>
-	<export function="addDataHandler" type="client"/>
 	
 	<script src="CElementData.lua" type="client" cache="false"/>
 	<script src="SElementData.lua" type="server"/>
