@@ -356,7 +356,6 @@ function onElementQuitAndDestroy()
 
 		for _, playerData in pairs(privateData) do
 			playerData[source] = nil
-			break
 		end
 	end
 end
